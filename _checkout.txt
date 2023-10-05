@@ -8,3 +8,5 @@ another line added remotely to check the command GIT BRANCH -V
 >>>>>>> 636676c438eb52bc6a15e808806e00a3272341c6
 
 yet line 3 from remote
+
+yet line 4 from remote
