@@ -9,9 +9,5 @@ yet line 3 from remote
 
 yet line 4 from remote
 
-<<<<<<< HEAD
-
-######### LOCAL UPDATE #########
-=======
 ######### REMOTE UPDATE #########
->>>>>>> b02de17ceb2c886ff57563ea0f45bc604def19da
+
