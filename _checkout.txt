@@ -1,10 +1,8 @@
 added a new line remotely
 added one line locally
 
-<<<<<<< HEAD
 added another line locally to check the command GIT BRANCH -V
-=======
+
 another line added remotely to check the command GIT BRANCH -V
->>>>>>> 636676c438eb52bc6a15e808806e00a3272341c6
 
 yet line 3 from remote
