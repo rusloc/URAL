@@ -11,22 +11,3 @@ yet line 4 from remote
 
 
 ######### REMOTE UPDATE #########
-
-
-
-
-
-
-
-######### LOCAL UPDATE #########
-
-
-
-
-
-
-
-
-
-
-
