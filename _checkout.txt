@@ -1,2 +1,4 @@
 added a new line remotely
 added one line locally
+
+added another line locally to check the command GIT BRANCH -V
