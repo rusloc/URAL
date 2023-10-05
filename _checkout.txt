@@ -6,3 +6,5 @@ added another line locally to check the command GIT BRANCH -V
 another line added remotely to check the command GIT BRANCH -V
 
 yet line 3 from remote
+
+yet line 4 from remote
